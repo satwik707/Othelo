@@ -1,0 +1,38 @@
+.column1{
+    float:left;
+}
+.container{
+    margin-top:10%;
+    margin:0 none;
+    margin-left:25%;
+    
+    
+    
+}
+.heading{
+    margin-left:-16px;
+}
+
+textarea,input{
+    border-radius: 5px;
+    
+}
+.column2>.form-control{
+    width:50%;
+}
+textarea.form-control{
+    height:121px;
+}
+button{
+    
+    width: 22%;
+    background-color:#004D99 !important;
+    margin-top:-3.5px;
+}
+h3,h2{
+    font-weight: 400;
+    font-size:1.3rem;
+}
+h2{
+    font-size:1.45rem;
+}
